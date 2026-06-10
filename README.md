@@ -25,14 +25,14 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 ### 🚀 Projects
 *Below is a selection of my key projects, demonstrating the full design cycle from RTL to real-time hardware validation.*
 
-* **[VGA Controller FPGA]** - TBA (Description to be added)
+* **[VGA Video Controller](https://github.com/Digital-Systems-Engineer/fpga-vga-controller)** - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
 
-* **[Chronomètre FPGA]** - A robust digital stopwatch implementation demonstrating sequential logic and 7-segment display multiplexing.
+* **[FPGA Digital Stopwatch](https://github.com/Digital-Systems-Engineer/fpga-stopwatch)** - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
 
-* **[Real-time FPGA Signal Processing]** - Development of a low-pass filter implemented on FPGA. 
+* **[Real-time FPGA Signal Processing](https://github.com/Digital-Systems-Engineer/fpga-signal-processing)** - Development of a low-pass filter implemented on FPGA. 
     * **Full Design Cycle:** Theoretical analysis, coefficient calculation, and MATLAB simulation.
     * **Implementation:** RTL design, SPI interface development for high-speed ADC/DAC communication.
     * **Validation:** Real-time signal processing and performance verification.
-
+    * 
 ---
 *Looking for new challenges in digital design and embedded hardware!*
