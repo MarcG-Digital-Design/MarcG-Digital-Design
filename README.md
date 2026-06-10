@@ -22,4 +22,4 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 *Looking for new challenges in digital design and embedded hardware!*
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello I'm Marc)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+'+m+Marc)](https://git.io/typing-svg)
