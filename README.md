@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Marc 👋
 
-<!--
-**Digital-Systems-Engineer/Digital-Systems-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Digital Systems Engineer
 
-Here are some ideas to get you started:
+I am a passionate **Hardware Design Engineer** focused on developing high-performance digital architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills
+* **Hardware Description:** VHDL, Verilog, SystemVerilog
+* **FPGA/SoC Design:** Xilinx Vivado, Intel Quartus, Timing Analysis, RTL Synthesis
+* **Embedded Systems:** Microcontrollers, C/C++, Embedded Linux
+* **Tools & Versioning:** Git, ModelSim, Tcl Scripting
+
+### 🚀 Projects
+* **[Chronomètre FPGA]** - A robust digital stopwatch implementation demonstrating sequential logic and 7-segment display multiplexing.
+
+### 🔗 Connect with me
+[Add your LinkedIn link here]
+
+---
+*Looking for new challenges in digital design and embedded hardware!*
