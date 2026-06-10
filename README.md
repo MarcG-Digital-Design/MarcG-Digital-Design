@@ -12,6 +12,8 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 * **Tools & Versioning:** Git, ModelSim, Tcl Scripting
 
 ### 🚀 Projects
+* **[VGA FPGA]** 
+* 
 * **[Chronomètre FPGA]** - A robust digital stopwatch implementation demonstrating sequential logic and 7-segment display multiplexing.
 
 * **[Real-time FPGA Signal Processing]** - Development of a low-pass filter implemented on FPGA. 
