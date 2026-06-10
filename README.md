@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/platforma-uno/platforma-uno/master/assets/wave.svg" width="100%">
 </p>
 
-[![Typing SVG](https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=150&text=Digital+Systems+Engineer" width="100%">
+</p>
 
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
 
