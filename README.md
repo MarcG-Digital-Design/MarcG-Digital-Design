@@ -1,6 +1,5 @@
-# Hello, I'm Marc 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&lines=Hello+I+'+m+Marc)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7EFC3&repeat=false&width=435&lines=Hello+it's+Marc)](https://git.io/typing-svg) 👋
 
 ## Digital Systems Engineer
 
