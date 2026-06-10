@@ -33,6 +33,6 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
     * **Full Design Cycle:** Theoretical analysis, coefficient calculation, and MATLAB simulation.
     * **Implementation:** RTL design, SPI interface development for high-speed ADC/DAC communication.
     * **Validation:** Real-time signal processing and performance verification.
-    * 
+      
 ---
 *Looking for new challenges in digital design and embedded hardware!*
