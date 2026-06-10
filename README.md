@@ -12,9 +12,9 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 
 ### 🚀 Projects
 * **[Chronomètre FPGA]** - A robust digital stopwatch implementation demonstrating sequential logic and 7-segment display multiplexing.
+* * **[SIGNAL PROCESSING FPGA]** -
 
-### 🔗 Connect with me
-[Add your LinkedIn link here]
+
 
 ---
 *Looking for new challenges in digital design and embedded hardware!*
