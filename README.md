@@ -7,8 +7,8 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 ---
 
 ### 🛠 Technical Skills
-* **Hardware Description:** VHDL, Verilog, SystemVerilog
-* **FPGA/SoC Design:** Xilinx Vivado, Intel Quartus, Timing Analysis, RTL Synthesis
+* **Hardware Description:** VHDL
+* **FPGA/SoC Design:** Xilinx Vivado, Intel Quartus Prime, Timing Analysis, RTL Synthesis
 * **Embedded Systems:** Microcontrollers, C/C++, Embedded Linux
 * **Tools & Versioning:** Git, ModelSim, Tcl Scripting
 <p align="center">
