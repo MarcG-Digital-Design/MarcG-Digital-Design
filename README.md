@@ -1,5 +1,7 @@
 # Hello, I'm Marc 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&lines=Hello+I+'+m+Marc)](https://git.io/typing-svg)
+
 ## Digital Systems Engineer
 
 I am a passionate **Hardware Design Engineer** focused on developing high-performance digital architectures.
@@ -21,5 +23,3 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 ---
 *Looking for new challenges in digital design and embedded hardware!*
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+'+m+Marc)](https://git.io/typing-svg)
