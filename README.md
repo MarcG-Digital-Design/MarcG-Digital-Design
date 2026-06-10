@@ -1,7 +1,8 @@
+## Digital Systems Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7EFC3&repeat=false&width=435&lines=Hello+it's+Marc;Digital+Systems+Engineer)](https://git.io/typing-svg)
 
-## Digital Systems Engineer
+
 
 I am a passionate **Hardware Design Engineer** focused on developing high-performance digital architectures.
 
