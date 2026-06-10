@@ -1,9 +1,10 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7EFC3&repeat=false&width=435&lines=Hello+it's+Marc)](https://git.io/typing-svg) 👋
 
 ## Digital Systems Engineer
 
 I am a passionate **Hardware Design Engineer** focused on developing high-performance digital architectures.
+
+---
 
 ### 🛠 Technical Skills
 * **Hardware Description:** VHDL, Verilog, SystemVerilog
@@ -11,9 +12,13 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 * **Embedded Systems:** Microcontrollers, C/C++, Embedded Linux
 * **Tools & Versioning:** Git, ModelSim, Tcl Scripting
 
+---
+
 ### 🚀 Projects
-* **[VGA FPGA]** 
-* 
+*Below is a selection of my key projects, demonstrating the full design cycle from RTL to real-time hardware validation.*
+
+* **[VGA Controller FPGA]** - TBA (Description to be added)
+
 * **[Chronomètre FPGA]** - A robust digital stopwatch implementation demonstrating sequential logic and 7-segment display multiplexing.
 
 * **[Real-time FPGA Signal Processing]** - Development of a low-pass filter implemented on FPGA. 
@@ -23,4 +28,3 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 
 ---
 *Looking for new challenges in digital design and embedded hardware!*
-
