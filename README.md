@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platforma-uno/platforma-uno/master/assets/wave.svg" width="100%">
+</p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F6D4&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)](https://git.io/typing-svg)
 
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
 
