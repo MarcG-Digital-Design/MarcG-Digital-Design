@@ -15,7 +15,7 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 * **Tools & Versioning:** Git, ModelSim, Tcl Scripting
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,vim,vscode,linux,arduino,py,matlab,gitlab," />
   </a>
 </p>
 ---
