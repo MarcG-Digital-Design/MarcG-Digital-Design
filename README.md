@@ -12,9 +12,11 @@ I am a passionate **Hardware Design Engineer** focused on developing high-perfor
 
 ### 🚀 Projects
 * **[Chronomètre FPGA]** - A robust digital stopwatch implementation demonstrating sequential logic and 7-segment display multiplexing.
-* * **[SIGNAL PROCESSING FPGA]** -
 
-
+* **[Real-time FPGA Signal Processing]** - Development of a low-pass filter implemented on FPGA. 
+    * **Full Design Cycle:** Theoretical analysis, coefficient calculation, and MATLAB simulation.
+    * **Implementation:** RTL design, SPI interface development for high-speed ADC/DAC communication.
+    * **Validation:** Real-time signal processing and performance verification.
 
 ---
 *Looking for new challenges in digital design and embedded hardware!*
