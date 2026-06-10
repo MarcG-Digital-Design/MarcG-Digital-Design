@@ -14,7 +14,7 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 * **Design Workflow:** RTL Synthesis, Timing Analysis, Place & Route, Hardware Implementation
 * **FPGA/SoC Design:** Xilinx Vivado, Intel Quartus Prime,
 * **Embedded Systems:** Microcontrollers, C/C++, Embedded Linux
-* **Tools & Versioning:** Git, ModelSim, Tcl Scripting
+* **Tools & Versioning:** ModelSim, Tcl Scripting
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,vim,vscode,linux,arduino,py,matlab,gitlab," />
