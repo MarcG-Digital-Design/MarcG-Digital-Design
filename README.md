@@ -52,6 +52,6 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=200&section=footer">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000008&height=200&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=200&section=footer" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=150&section=footer" width="100%">
   </picture>
 </p>
