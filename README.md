@@ -32,7 +32,7 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 ### 💻 Projects
 *Below is a selection of my key projects, demonstrating the full design cycle from RTL to real-time hardware validation.*
 
-* **[VGA Video Controller](https://github.com/Digital-Systems-Engineer/fpga-vga-controller)** - (L3 Academic Project) - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
+* **[VGA Video Controller](https://github.com/Digital-Systems-Engineer/fpga-vga-controller)** - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
 
 * **[FPGA Digital Stopwatch](https://github.com/Digital-Systems-Engineer/fpga-stopwatch)** - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
 
