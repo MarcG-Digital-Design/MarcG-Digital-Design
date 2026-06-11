@@ -14,7 +14,7 @@
 
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
 
----                                                                                        --- 
+---
 
 ### 🛠 Technical Skills
 * **Hardware Description:** VHDL, SystemVerilog
@@ -29,7 +29,7 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 </p>
 ---
 
-### 🚀 Projects
+### 💻 Projects
 *Below is a selection of my key projects, demonstrating the full design cycle from RTL to real-time hardware validation.*
 
 * **[VGA Video Controller](https://github.com/Digital-Systems-Engineer/fpga-vga-controller)** - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
