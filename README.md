@@ -1,10 +1,23 @@
-
+<!-- Header avec basculement automatique Sombre/Clair -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001FE3&height=150&text=" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=001FE3&height=150&text=Digital+Systems+Engineer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=150&text=Digital+Systems+Engineer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=001FE3&height=150&text=Digital+Systems+Engineer" width="100%">
+  </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E0DADA&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001FE3&height=150&text=Digital+Systems+Engineer" width="100%">
+</p>
 
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=001FE3&section=footer" width="100%">
+</p>
+
+<!-- Mon message perso  avec ajustement selon le theme blanc/noire -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E0DADA&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub">
