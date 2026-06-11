@@ -6,16 +6,6 @@
   </picture>
 </p>
 
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001FE3&height=150&text=Digital+Systems+Engineer" width="100%">
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=001FE3&section=footer" width="100%">
-</p>
-
 <!-- Mon message perso  avec ajustement selon le theme blanc/noire -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E0DADA&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub">
