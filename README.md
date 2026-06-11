@@ -1,7 +1,7 @@
 <!-- Header avec basculement automatique Sombre/Clair -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=150&text=Digital+Systems+Engineer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=150&text=">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=000008&height=150&text=Digital+Systems+Engineer" width="100%">
   </picture>
 </p>
