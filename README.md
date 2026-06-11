@@ -5,6 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F6D4&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="URL_BANNIERE_DARK">
+  <source media="(prefers-color-scheme: light)" srcset="URL_BANNIERE_LIGHT">
+  <img alt="Bannière" src="URL_BANNIERE_DARK">
+</picture>
+
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
 
 ---
