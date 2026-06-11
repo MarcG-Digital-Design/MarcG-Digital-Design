@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text=" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&text=" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F6D4&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=auto&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
 
 
 
