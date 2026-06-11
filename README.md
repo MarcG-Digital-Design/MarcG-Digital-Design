@@ -24,7 +24,7 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 * **Tools & Versioning:** QuestaSim, ModelSim, Tcl Scripting
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlabc,linux, vim,vscode,py,matlab,c,C++,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,gitlabc,linux, vim,vscode,py,matlab,C,C++,arduino" />
   </a>
 </p>
 ---
