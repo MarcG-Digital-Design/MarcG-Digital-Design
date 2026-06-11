@@ -14,7 +14,7 @@
 
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
 
----
+---                                                                                        --- 
 
 ### 🛠 Technical Skills
 * **Hardware Description:** VHDL, SystemVerilog
