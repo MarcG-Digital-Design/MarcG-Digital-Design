@@ -7,7 +7,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E0DADA&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub">
-  
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub">
 </picture>
 
