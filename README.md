@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=001FE3&height=150&text=" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=auto&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=E0DADA&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
 
 
 
