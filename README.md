@@ -1,15 +1,11 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=405cbb&height=150&text=" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&text=" width="100%">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F6D4&width=435&lines=Hello+it's+Marc;Welcome+on+my+GitHub)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="URL_BANNIERE_DARK">
-  <source media="(prefers-color-scheme: light)" srcset="URL_BANNIERE_LIGHT">
-  <img alt="Bannière" src="URL_BANNIERE_DARK">
-</picture>
+
 
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
 
@@ -44,5 +40,5 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 *Looking for new challenges in digital design and embedded hardware!*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=405cbb&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2563EB&section=footer" width="100%">
 </p>
