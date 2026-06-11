@@ -40,5 +40,5 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 *Looking for new challenges in digital design and embedded hardware!*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2563EB&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=001FE3&section=footer" width="100%">
 </p>
