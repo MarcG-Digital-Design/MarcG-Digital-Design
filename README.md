@@ -13,6 +13,7 @@
 </picture>
 
 I am a **Digital Systems Engineer** passionate about FPGA design, hardware architecture, and embedded systems.
+> 🧹 *All projects are complete and functional. Repositories are currently being cleaned up and documented — full source code and write-ups available soon.*
 
 ---
 
