@@ -33,11 +33,11 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 ### 💻 Projects
 *Below is a selection of my key projects, demonstrating the full design cycle from RTL to real-time hardware validation.*
 
-* **[VGA Video Controller](https://github.com/Digital-Systems-Engineer/fpga-vga-controller)** - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
+* **[VGA Video Controller](https://github.com/Digital-Systems-Engineer/fpga-vga-controller)** ![Status](https://img.shields.io/badge/status-coming_soon-yellow) - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
 
-* **[FPGA Digital Stopwatch](https://github.com/Digital-Systems-Engineer/fpga-stopwatch)** - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
+* **[FPGA Digital Stopwatch](https://github.com/Digital-Systems-Engineer/fpga-stopwatch)** ![Status](https://img.shields.io/badge/status-coming_soon-yellow) - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
 
-* **[Real-time FPGA Signal Processing](https://github.com/Digital-Systems-Engineer/fpga-signal-processing)** - Development of a low-pass filter implemented on FPGA. 
+* **[Real-time FPGA Signal Processing](https://github.com/Digital-Systems-Engineer/fpga-signal-processing)** ![Status](https://img.shields.io/badge/status-coming_soon-yellow) - Development of a low-pass filter implemented on FPGA. 
     * **Full Design Cycle:** Theoretical analysis, coefficient calculation, and MATLAB simulation.
     * **Implementation:** RTL design, SPI interface development for high-speed ADC/DAC communication.
     * **Validation:** Real-time signal processing and performance verification.
