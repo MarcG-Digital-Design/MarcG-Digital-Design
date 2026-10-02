@@ -35,9 +35,9 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 
 * **[VGA Video Controller -- DE-10 LITE QUARTUS](https://github.com/MarcG-Digital-Design/fpga-vga-controller)** ![Status](https://img.shields.io/badge/status-code_ready_·_docs_in_progress-brightgreen) - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
 
-* **[FPGA Digital Stopwatch -- BOARD DE-10 LITE MAX10 QUARTUS](https://github.com/MarcG-Digital-Design/fpga-stopwatch)** ![Status](https://img.shields.io/badge/status-code_ready-brightgreen) - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
+* **[FPGA Digital Stopwatch -- DE-10 LITE MAX10 QUARTUS](https://github.com/MarcG-Digital-Design/fpga-stopwatch)** ![Status](https://img.shields.io/badge/status-code_ready-brightgreen) - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
 
-* **[Real-time FPGA Signal Processing -- BOARD ZYBO ZYNQ-7000 VIVADO](https://github.com/MarcG-Digital-Design/fpga-signal-processing)** ![Status](https://img.shields.io/badge/status-coming_soon-yellow) - Development of a low-pass filter implemented on FPGA. 
+* **[Real-time FPGA Signal Processing -- ZYBO ZYNQ-7000 VIVADO](https://github.com/MarcG-Digital-Design/fpga-signal-processing)** ![Status](https://img.shields.io/badge/status-coming_soon-yellow) - Development of a low-pass filter implemented on FPGA. 
     * **Full Design Cycle:** Theoretical analysis, coefficient calculation, and MATLAB simulation.
     * **Implementation:** RTL design, SPI interface development for high-speed ADC/DAC communication.
     * **Validation:** Real-time signal processing and performance verification.
