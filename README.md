@@ -38,7 +38,7 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
 
 *Below is a selection of my key projects, demonstrating the full design cycle from RTL development to FPGA/SoC integration and real-time hardware validation.*
 
-* **[VGA Video Controller -- DE-10 LITE QUARTUS](https://github.com/MarcG-Digital-Design/fpga-vga-controller)** ![Status](https://img.shields.io/badge/status-ready-brightgreen) - A custom VGA controller implemented on FPGA to display a static image stored in internal block RAM.
+* **[VGA Video Controller -- DE-10 LITE QUARTUS](https://github.com/MarcG-Digital-Design/fpga-vga-controller)** ![Status](https://img.shields.io/badge/status-ready-brightgreen) -  Custom FPGA VGA controller displaying a static image stored in internal block RAM, featuring automated RTL verification with GHDL, assertion-based VHDL testbenches, and a Makefile-driven simulation flow.
 
 * **[FPGA Digital Stopwatch -- DE-10 LITE MAX10 QUARTUS](https://github.com/MarcG-Digital-Design/fpga-stopwatch)** ![Status](https://img.shields.io/badge/status-ready-brightgreen) - A feature-rich digital stopwatch featuring Play/Pause/Reset functionality, implemented with a **Double Dabble algorithm** for efficient BCD conversion and multiplexed 7-segment display control.
 
