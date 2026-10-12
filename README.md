@@ -47,12 +47,12 @@ I am a **Digital Systems Engineer** passionate about FPGA design, hardware archi
   * **Implementation:** RTL design, SPI interface development for high-speed ADC/DAC communication.
   * **Validation:** Real-time signal processing and performance verification.
 
-* **FPGA/SoC Hardware-Software Control Architecture -- ZYBO ZYNQ-7000 VIVADO** ![Status](https://img.shields.io/badge/status-in_progress-orange) - Exploration of FPGA/SoC partitioning by reusing selected building blocks from the real-time signal-processing platform and moving supervisory tasks to a processor while keeping the real-time datapath in programmable logic.
-  * **Hardware/Software Partitioning:** Separation between processor-based control tasks and deterministic FPGA processing.
-  * **Processor Control:** Software supervision of functions such as SPI configuration, acquisition control, sampling parameters, and system status.
-  * **FPGA Datapath:** Time-critical signal acquisition and processing remain implemented as dedicated RTL hardware.
-  * **Integration Goal:** Explore processor-to-FPGA communication, memory-mapped control registers, and clean hardware/software interfaces without replacing the existing FPGA processing architecture.
-
+* **FPGA/SoC Signal Processing -- ZYBO ZYNQ-7000 VIVADO** ![Status](https://img.shields.io/badge/status-in_progress-orange) - Hardware/software co-design experiment based on the existing real-time FPGA signal-processing project.
+  * **Soft-core / Processor:** Handles data acquisition, control, and output data transfer.
+  * **FPGA Processing:** The FIR filter remains implemented in dedicated RTL hardware for deterministic and parallel processing.
+  * **HW/SW Co-design:** Evaluation of the partitioning between software-managed data flow and FPGA-based computation.
+  * **Performance Analysis:** Comparison of latency, throughput, FPGA resource usage, and power consumption.
+ 
 * **Multi-Clock FPGA Streaming System -- DE-10 LITE MAX10 QUARTUS** ![Status](https://img.shields.io/badge/status-in_progress-orange) - Development of a multi-clock RTL processing architecture focused on robust digital design, automated verification, Clock Domain Crossing, and timing closure.
   * **RTL Architecture:** Streaming datapath with multiple clock domains, FIFO-based buffering, and pipelined processing.
   * **Clock Domain Crossing:** Metastability analysis, two-flop synchronizers, asynchronous FIFO design, and Gray-code pointer synchronization.
